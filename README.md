@@ -22,5 +22,5 @@ article：https://www.jianshu.com/p/3ce81b55468d
 
 CameraX1.0.0-beta02已经发布，不出所料大量的breaking changes，目前网上的资料包括官方的教程还是旧的，这里放出最新的适配：
 
-beta02的版本：[QRCodeCameraX/beta02](/hotstu/QRCodeCameraX/tree/beta02)
+beta02的版本：[QRCodeCameraX/beta02](/hotstu/QRCodeCameraX/beta02)
 
