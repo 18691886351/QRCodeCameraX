@@ -6,6 +6,8 @@
 # QRCodeCameraX
 QRcode decoder based on CameraX &amp; zxing-core &amp; ML kit, in less than 50 lines
 
+# latest version(targeting beta02)：[QRCodeCameraX/beta02](https://github.com/hotstu/QRCodeCameraX/tree/beta02)
+
 基于CameraX api，代码极度精简，没有垃圾代码，直接操作yuvimage buffer，识别速度快
 
 内置两种识别方式可以随意切换
